@@ -1,0 +1,2 @@
+# Brick Destroyer Game
+This is a brick destroyer game made in Javascript, one of my first and fav languages ive learnt/been learning. I decided since i am doing game dev with c#, unity, and Java i should give Javascript a try. I loved the experiance 10/10 would do again
